@@ -153,7 +153,7 @@ break;
 
 ## Escribe un código en JavaScript que le pregunte a los usuarios cuánto es 2 + 2. Si responden bien, mostramos un mensaje de felicitaciones, pero si responden mal, volvemos a empezar.
 
-- hecho en ciclos4.js
+- hecho en forenwhile.js
 
 Pista: puedes usar la función prompt de JavaScript.
 
@@ -179,12 +179,12 @@ Pista: puedes usar la función prompt de JavaScript.
 
 ## Crea una función que pueda recibir cualquier array como parámetro e imprima su primer elemento.
 
-- hecho en arrays2.js
+- hecho en 5llpunto2.js
 
 ## Crea una función que pueda recibir cualquier array como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el array completo).
 
-- hecho en arrays3.js
+- hecho en 5llpunto3.js
 
 ## Crea una función que pueda recibir cualquier objeto como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el objeto completo).
 
-- hecho en arrays4.js
+- hecho en 5llpunto4.js
